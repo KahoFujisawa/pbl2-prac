@@ -1,7 +1,3 @@
 # pbl2-prac
-aaa
-
-あああ
-
-いいい
-iiii
+演習２
+enshu2
